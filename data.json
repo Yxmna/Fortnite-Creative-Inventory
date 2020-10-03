@@ -1,5 +1,5 @@
 {
-	{
+	"0": {
 		"name": "1art_deco",
 		"size": 1421,
 		"items": [
@@ -1426,7 +1426,7 @@
 			"PPID_ST_CP_ArtDeco_WallArt_06"
 		]
 	},
-	{
+	"1": {
 		"name": "1bridge",
 		"size": 148,
 		"items": [
@@ -1580,7 +1580,7 @@
 			"PPID_ST_Bridge_Railing_Curve_B"
 		]
 	},
-	{
+	"2": {
 		"name": "1car",
 		"size": 95,
 		"items": [
@@ -1681,7 +1681,7 @@
 			"PPID_ST_Car_Trailer_RV_02_9db86547"
 		]
 	},
-	{
+	"3": {
 		"name": "1castle",
 		"size": 175,
 		"items": [
@@ -1862,7 +1862,7 @@
 			"PPID_ST_IceCastle_Window2_0837044b"
 		]
 	},
-	{
+	"4": {
 		"name": "1desert",
 		"size": 19,
 		"items": [
@@ -1887,7 +1887,7 @@
 			"PPID_ST_Prop_Desert_rockshelf_01"
 		]
 	},
-	{
+	"5": {
 		"name": "1disco",
 		"size": 43,
 		"items": [
@@ -1936,7 +1936,7 @@
 			"PPID_ST_Stage_Stairs_0d2d5de8"
 		]
 	},
-	{
+	"6": {
 		"name": "1e.g.o",
 		"size": 108,
 		"items": [
@@ -2050,7 +2050,7 @@
 			"PPID_ST_Arctic_IceStatue_RedKnight"
 		]
 	},
-	{
+	"7": {
 		"name": "1factory",
 		"size": 689,
 		"items": [
@@ -2745,7 +2745,7 @@
 			"PPID_ST_Factory_Wall_Garage_Trim_eef5f00b"
 		]
 	},
-	{
+	"8": {
 		"name": "1flotilla",
 		"size": 1290,
 		"items": [
@@ -4041,7 +4041,7 @@
 			"PPID_ST_CP_Fortilla_Floor_Floating_06_e68bf333"
 		]
 	},
-	{
+	"9": {
 		"name": "1jungle",
 		"size": 207,
 		"items": [
@@ -4254,7 +4254,7 @@
 			"PPID_ST_JungleTemple_Window_02_91325585"
 		]
 	},
-	{
+	"10": {
 		"name": "1lava",
 		"size": 10,
 		"items": [
@@ -4270,7 +4270,7 @@
 			"PPID_ST_CP_Lava_Tile_Straight"
 		]
 	},
-	{
+	"11": {
 		"name": "1mall",
 		"size": 100,
 		"items": [
@@ -4376,7 +4376,7 @@
 			"PPID_ST_Mall_Storefront_2H_f6625967"
 		]
 	},
-	{
+	"12": {
 		"name": "1military",
 		"size": 674,
 		"items": [
@@ -5056,7 +5056,7 @@
 			"PPID_ST_Military_WoodRamp_03"
 		]
 	},
-	{
+	"13": {
 		"name": "1music",
 		"size": 408,
 		"items": [
@@ -5470,7 +5470,7 @@
 			"PPID_ST_MusicBlock_Synth_f4572449"
 		]
 	},
-	{
+	"14": {
 		"name": "1neo",
 		"size": 1333,
 		"items": [
@@ -6809,7 +6809,7 @@
 			"PPID_ST_Neo__QuarterWall_Round_InvCrn_cf719142"
 		]
 	},
-	{
+	"15": {
 		"name": "1obstacle",
 		"size": 575,
 		"items": [
@@ -7390,7 +7390,7 @@
 			"PPID_ST_Obstacle_Course_WindowC_ed9fcf41"
 		]
 	},
-	{
+	"16": {
 		"name": "1piano",
 		"size": 24,
 		"items": [
@@ -7420,7 +7420,7 @@
 			"PPID_ST_Prop_Creative_PianoKey_f8e8968a"
 		]
 	},
-	{
+	"17": {
 		"name": "1pirate_ship_gallery",
 		"size": 129,
 		"items": [
@@ -7555,7 +7555,7 @@
 			"PPID_ST_Pirate_Ship_Wall_Corner_A_CP"
 		]
 	},
-	{
+	"18": {
 		"name": "1princess",
 		"size": 844,
 		"items": [
@@ -8405,7 +8405,7 @@
 			"PPID_ST_PC_Wall_Quarter_1_ca8b574d"
 		]
 	},
-	{
+	"19": {
 		"name": "1pueblo",
 		"size": 121,
 		"items": [
@@ -8532,7 +8532,7 @@
 			"PPID_ST_Pueblo_Windows_02_d5b96ef4"
 		]
 	},
-	{
+	"20": {
 		"name": "1rig",
 		"size": 455,
 		"items": [
@@ -8993,7 +8993,7 @@
 			"PPID_ST_OilRig_Wall_Triangle_b6185134"
 		]
 	},
-	{
+	"21": {
 		"name": "1rock",
 		"size": 71,
 		"items": [
@@ -9070,7 +9070,7 @@
 			"PPID_ST_Prop_Rock_Wall_Moss_4517e2da"
 		]
 	},
-	{
+	"22": {
 		"name": "1shape",
 		"size": 568,
 		"items": [
@@ -9644,7 +9644,7 @@
 			"PPID_ST_PG_Cube_Yellow_4x"
 		]
 	},
-	{
+	"23": {
 		"name": "1terrain",
 		"size": 148,
 		"items": [
@@ -9798,7 +9798,7 @@
 			"PPID_ST_CP_Cave_Tunnel_Turn_d927c3f6"
 		]
 	},
-	{
+	"24": {
 		"name": "1water",
 		"size": 23,
 		"items": [
@@ -9827,7 +9827,7 @@
 			"PPID_ST_CP_Cube_Water_Parent_edab863d"
 		]
 	},
-	{
+	"25": {
 		"name": "1western",
 		"size": 186,
 		"items": [
@@ -10019,7 +10019,7 @@
 			"PPID_ST_CP_Western_Wall_Trim_010_f4d540cd"
 		]
 	},
-	{
+	"26": {
 		"name": "1yacht",
 		"size": 241,
 		"items": [
@@ -10266,7 +10266,7 @@
 			"PPID_ST_Apollo_Yacht_YarnBall_02_9d2f2d52"
 		]
 	},
-	{
+	"27": {
 		"name": "ALL",
 		"size": 11163,
 		"items": [
@@ -21435,7 +21435,132 @@
 			"PPID_ST_WV_Planter_L"
 		]
 	},
-	{
+	"28": {
+		"name": "art_deco_bank_gallery_black",
+		"size": 23,
+		"items": [
+			"floor marble 1",
+			"floor marble 10",
+			"floor marble 11",
+			"floor marble 12",
+			"floor marble 13",
+			"floor marble 14",
+			"floor marble 15",
+			"floor marble 16",
+			"floor marble 17",
+			"floor marble 18",
+			"floor marble 19",
+			"floor marble 2",
+			"floor marble 20",
+			"floor marble 3",
+			"floor marble 4",
+			"floor marble 5",
+			"floor marble 6",
+			"floor marble 7",
+			"floor marble 8",
+			"floor marble 9",
+			"pillar marble",
+			"wall marble",
+			"_gallery_ico"
+		]
+	},
+	"29": {
+		"name": "castle_gallery_a",
+		"size": 28,
+		"items": [
+			"door stone 2",
+			"door stone",
+			"fence door wood",
+			"fence stone 1",
+			"fence stone 2",
+			"fence stone 3",
+			"fence stone 4",
+			"fence stone 5",
+			"fence stone 6",
+			"fence stone 7",
+			"fence wood",
+			"roof stone 1",
+			"roof stone 2",
+			"support wood",
+			"wall stone 1",
+			"wall stone 2",
+			"wall stone 3",
+			"wall stone arch 1",
+			"wall stone arch 2",
+			"wall stone arch 4",
+			"wall stone arch 5",
+			"wall stone arch 7",
+			"wall stone cut 5",
+			"wall stone cut 6",
+			"wall stone cut 7",
+			"window stone 2",
+			"window stone",
+			"_gallery_ico"
+		]
+	},
+	"30": {
+		"name": "farm_building_gallery",
+		"size": 35,
+		"items": [
+			"fence wood 1",
+			"fence wood 2",
+			"fence wood 3",
+			"floor wood 1",
+			"floor wood 2",
+			"floor wood 3",
+			"floor wood 4",
+			"roof stone 1",
+			"roof stone 2",
+			"roof wood 1",
+			"roof wood 2",
+			"roof wood 3",
+			"roof wood 4",
+			"roof wood 5",
+			"roof wood 6",
+			"roof wood 7",
+			"roof wood 8",
+			"stair wood 1",
+			"stair wood 2",
+			"stair wood 3",
+			"stair wood 4",
+			"wall wood 1",
+			"wall wood 2",
+			"wall wood 3",
+			"wall wood 4",
+			"wall wood 5",
+			"wall wood 6",
+			"wall wood 7",
+			"wall wood 8",
+			"wall wood door 1",
+			"wall wood door 2",
+			"wall wood support",
+			"wall wood window 1",
+			"wall wood window 2",
+			"_gallery_ico"
+		]
+	},
+	"31": {
+		"name": "farm_parts_gallery",
+		"size": 15,
+		"items": [
+			"apple fruit",
+			"bush nosolid nature",
+			"chair wood",
+			"haystack 1",
+			"haystack 2",
+			"haystack 3",
+			"haystack 4",
+			"haystack 5",
+			"haystack hideaway",
+			"rooster",
+			"silo steel 1",
+			"silo steel 2",
+			"tractor vehicle",
+			"windmill wood",
+			"_gallery_ico"
+		]
+	},
+	"32": {
 		"name": "primitive_gallery",
 		"size": 178,
 		"items": [
@@ -21619,7 +21744,7 @@
 			"PPID_ST_CP_Primitive_Sphere_Solid_Sixteenth"
 		]
 	},
-	{
+	"33": {
 		"name": "ring_gallery",
 		"size": 196,
 		"items": [
@@ -21820,5 +21945,5 @@
 			"PPID_ST_CP_Metal_Ring_05_ec73b44b",
 			"PPID_ST_CP_Metal_Ring_05_f26356a2"
 		]
-	},
-];
+	}
+}
